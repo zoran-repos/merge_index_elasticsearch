@@ -16,7 +16,7 @@ For testing purpose those setup will spinup Elasticsearch and Kibana in Docker e
 - clone the repository
 
 ```bash
-git clone https://github.com/zoran-repos/recipes.git](https://github.com/zoran-repos/merge_index_elasticsearch.git
+git clone https://github.com/zoran-repos/merge_index_elasticsearch.git
 ```
 ```bash
 docker-compose up -d
