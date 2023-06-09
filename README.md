@@ -1,4 +1,4 @@
-# Demo how to force merge indexes in Elasticsearch
+# --- Demo --- How to force merge indexes in Elasticsearch
 
 For testing purpose those setup will spinup Elasticsearch and Kibana in Docker environment
 
